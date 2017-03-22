@@ -1,0 +1,22 @@
+{
+  "name": "init",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rafał Szrajnert <viprafal@interia.pl>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery-ui": "^1.12.1",
+    "jquery": "^3.2.1"
+  }
+}
