@@ -1,10 +1,10 @@
-﻿/* 
-Theme Name: Przykladowy_szablon ///// tutaj zmieniaj nazwy w kolejnych szablonach
+﻿/*
+Theme Name: szablonWPtheme
 Theme URI: adres skąd można pobrać nasz szablon
 Description: opis naszego szablonu
 Version: wersja
-Author: autor 
-Author URI: nasza strona www 
+Author: autor
+Author URI: nasza strona www
 */
 
 
@@ -114,4 +114,6 @@ a img.aligncenter {
 	width: auto;
 	z-index: 100000; /* Above WP toolbar. */
 }
-
+h1{
+color: black;
+}
